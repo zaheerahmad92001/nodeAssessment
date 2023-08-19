@@ -1,4 +1,4 @@
-1 : install node module 
+1 : install node module  
 npm install
-2 : run server 
+2 : To run the server 
 npm run start
